@@ -1,11 +1,12 @@
 //exercise 1
 
-package add
+/*package add
 
 // Add takes two integers and returns their sum.
 func Add(a, b int) int {
 	return a + b
 }
+*/
 
 //to commit changes:
 
@@ -14,3 +15,13 @@ func Add(a, b int) int {
 //git tag v1.0.0
 //git push origin main
 //git push origin v1.0.0
+
+//exercise 2
+
+package add
+
+// Add takes two integers and returns their sum.
+// For more details, visit: https://www.mathsisfun.com/numbers/addition.html.
+func Add(a, b int) int {
+	return a + b
+}
